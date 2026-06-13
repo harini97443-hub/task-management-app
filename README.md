@@ -1,20 +1,53 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Task Management Application
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+Task Management Application is a full-stack web application designed to help users efficiently create, organize, update, and track tasks. The application provides a secure authentication system, task prioritization, status tracking, and a responsive user interface for seamless task management.
 
-View your app in AI Studio: https://ai.studio/apps/fcd6affa-3b8f-44af-b7c6-875d3da105d2
+## Features
 
-## Run Locally
+* User Authentication and Authorization
+* Create, Read, Update, and Delete Tasks
+* Task Priority Management
+* Task Status Tracking
+* Responsive Design for Desktop and Mobile
+* Dashboard with Task Statistics
+* Secure User-Specific Task Management
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
+### Frontend
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* React.js
+* TypeScript
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+## Project Objectives
+
+* Learn Full-Stack Application Development
+* Implement RESTful APIs
+* Practice Authentication and Authorization
+* Manage Data Using MongoDB
+* Build Responsive User Interfaces
+
+## Live Demo
+
+https://task-manager-906669891020.asia-southeast1.run.app
+
+## GitHub Repository
+
+https://github.com/harini97443-hub/task-management-app
+
+## Author
+
+Harini Kayala
+
